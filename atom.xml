@@ -3,11 +3,11 @@
   <title>DongGu&#39;s journey</title>
   
   <subtitle>hhhhh</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://adonggu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://adonggu.github.io/"/>
   <updated>2021-09-25T13:34:27.636Z</updated>
-  <id>http://example.com/</id>
+  <id>https://adonggu.github.io/</id>
   
   <author>
     <name>DongGu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>主席树</title>
-    <link href="http://example.com/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
-    <id>http://example.com/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/</id>
+    <link href="https://adonggu.github.io/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/"/>
+    <id>https://adonggu.github.io/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/</id>
     <published>2021-09-24T09:45:58.000Z</published>
     <updated>2021-09-25T13:34:27.636Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>一起来水坑 --- 说说 让你直呼傻x 的bug， 让你头痛不已的错误~~</title>
-    <link href="http://example.com/2021/09/24/Bug%E6%80%BB%E7%BB%93/"/>
-    <id>http://example.com/2021/09/24/Bug%E6%80%BB%E7%BB%93/</id>
+    <link href="https://adonggu.github.io/2021/09/24/Bug%E6%80%BB%E7%BB%93/"/>
+    <id>https://adonggu.github.io/2021/09/24/Bug%E6%80%BB%E7%BB%93/</id>
     <published>2021-09-24T09:45:58.000Z</published>
     <updated>2021-09-26T08:14:53.896Z</updated>
     
@@ -51,7 +51,7 @@
     
     
     
-    <category term="总结bug" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93bug/"/>
+    <category term="总结bug" scheme="https://adonggu.github.io/tags/%E6%80%BB%E7%BB%93bug/"/>
     
   </entry>
   
