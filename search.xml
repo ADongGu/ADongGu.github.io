@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>一起来水坑 --- 说说 让你直呼傻x 的bug， 让你头痛不已的错误~~</title>
+    <url>/2021/09/24/Bug%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h2 id="初衷"><a href="#初衷" class="headerlink" title="初衷"></a>初衷</h2><ul>
+<li>昨天晚上莫名其妙想到我们的一个集训队老师说我们缺少交流，缺少分享经验，确实，感觉大家在群里确实幽默风趣，互相调侃，而到了线下，比较拘谨，各干各的，所以在这里，就想通过这么个方式去达到这个效果，并且就通过记录我的错误，或者说把大家有犯过的错误，去分享出去，大家没事就像刷几个小视频一样看这些bug，看看大伙犯的错误有没有同感，或者说笑笑自己有多么的傻x，从而避免再犯同样的错误。</li>
+</ul>
+<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul>
+<li>不过希望大家不灌水哦，为了更好的体验，后面通过学习一些技术去把它整理，分类，希望能到那种程度，从而提高一些阅读体验。</li>
+</ul>
+<blockquote>
+<p>ps： 如果说大家有什么更好的改进，可以私信或QQ联系<br>同步到  -&gt; <a href="https://github.com/ADongGu/MyBlog/issues/1#issue-999195760">github</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>总结bug</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>主席树</title>
     <url>/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/</url>
     <content><![CDATA[</font>
@@ -67,22 +84,5 @@
 <hr>
 <p>ps： 在这里还得感谢AgOH大佬的讲解，Orz</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>一起来水坑 --- 说说 让你直呼傻x 的bug， 让你头痛不已的错误~~</title>
-    <url>/2021/09/24/Bug%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="初衷"><a href="#初衷" class="headerlink" title="初衷"></a>初衷</h2><ul>
-<li>昨天晚上莫名其妙想到我们的一个集训队老师说我们缺少交流，缺少分享经验，确实，感觉大家在群里确实幽默风趣，互相调侃，而到了线下，比较拘谨，各干各的，所以在这里，就想通过这么个方式去达到这个效果，并且就通过记录我的错误，或者说把大家有犯过的错误，去分享出去，大家没事就像刷几个小视频一样看这些bug，看看大伙犯的错误有没有同感，或者说笑笑自己有多么的傻x，从而避免再犯同样的错误。</li>
-</ul>
-<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul>
-<li>不过希望大家不灌水哦，为了更好的体验，后面通过学习一些技术去把它整理，分类，希望能到那种程度，从而提高一些阅读体验。</li>
-</ul>
-<blockquote>
-<p>ps： 如果说大家有什么更好的改进，可以私信或QQ联系<br>同步到  -&gt; <a href="https://github.com/ADongGu/MyBlog/issues/1#issue-999195760">github</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>总结bug</tag>
-      </tags>
   </entry>
 </search>
