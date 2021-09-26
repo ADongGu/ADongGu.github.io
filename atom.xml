@@ -42,12 +42,11 @@
     <link href="http://example.com/2021/09/24/Bug%E6%80%BB%E7%BB%93/"/>
     <id>http://example.com/2021/09/24/Bug%E6%80%BB%E7%BB%93/</id>
     <published>2021-09-24T09:45:58.000Z</published>
-    <updated>2021-09-26T07:32:25.396Z</updated>
+    <updated>2021-09-26T08:14:53.896Z</updated>
     
     
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;大家好，我是&lt;font color=#0000FF&gt;  DongGu&lt;/font&gt; ,是一名软件工程专业大二的学生，写博客一方面是为了记录自己的学习过程，把自己犯的错误进行分享。但由于水平有限，博客中难免会有一些错误出现，有纰漏之处恳请各位大佬不吝赐教！有任何问题可以评论或者QQ联系(1521839703)&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;初衷&quot;&gt;&lt;a href=&quot;#初衷&quot; class=&quot;headerlink&quot; title=&quot;初衷&quot;&gt;&lt;/a&gt;初衷&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;初衷，昨天晚上莫名其妙想到我们的一个集训队老师说我们缺少交流，缺少分享经验，确实，感觉大家在群里确实幽默风趣，互相调侃，而到了线下，比较拘谨，各干各的，所以在这里，就想通过这么个方式去达到这个效果，并且就通过记录我的错误，或者说把大家有犯过的错误，去分享出去，大家没事就像刷几个小视频一样看这些bug，看看大伙犯的错误有没有同感，或者说笑笑自己有多么的傻x，从而避免再犯同样的错误。</summary>
     
     
     
