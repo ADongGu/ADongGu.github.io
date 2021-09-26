@@ -3,16 +3,9 @@
   <entry>
     <title>主席树</title>
     <url>/2021/09/24/%E4%B8%BB%E5%B8%AD%E6%A0%91/</url>
-    <content><![CDATA[<blockquote>
-<p>  大家好，我是<font color=#0000FF>  DongGu</font> ,是一名软件工程专业大二的学生，写博客一方面是为了记录自己的学习过程，把自己犯的错误进行分享。但由于水平有限，博客中难免会有一些错误出现，有纰漏之处恳请各位大佬不吝赐教！有任何问题可以评论或者QQ联系(1521839703)</p>
-</blockquote>
-<p>@<a href="%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95">TOC</a></p>
-</font>
+    <content><![CDATA[</font>
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
-
-
-<span id="more"></span>
 
 <h1 id="直接上个图"><a href="#直接上个图" class="headerlink" title="直接上个图"></a>直接上个图</h1><p>ps（<a href="https://www.luogu.com.cn/problem/P3834">题目</a>）</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">依照这个数据 画的图</span><br><span class="line">5 5</span><br><span class="line">25957 6405 15770 26287 26465 </span><br><span class="line">2 2 1</span><br><span class="line">3 4 1</span><br><span class="line">4 5 1</span><br><span class="line">1 2 2</span><br><span class="line">4 4 1</span><br></pre></td></tr></table></figure>
@@ -79,8 +72,9 @@
     <title>一起来水坑 --- 说说 让你直呼傻x 的bug， 让你头痛不已的错误~~</title>
     <url>/2021/09/24/Bug%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<h2 id="初衷"><a href="#初衷" class="headerlink" title="初衷"></a>初衷</h2><ul>
-<li>初衷，昨天晚上莫名其妙想到我们的一个集训队老师说我们缺少交流，缺少分享经验，确实，感觉大家在群里确实幽默风趣，互相调侃，而到了线下，比较拘谨，各干各的，所以在这里，就想通过这么个方式去达到这个效果，并且就通过记录我的错误，或者说把大家有犯过的错误，去分享出去，大家没事就像刷几个小视频一样看这些bug，看看大伙犯的错误有没有同感，或者说笑笑自己有多么的傻x，从而避免再犯同样的错误。<span id="more"></span>
-<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2></li>
+<li>昨天晚上莫名其妙想到我们的一个集训队老师说我们缺少交流，缺少分享经验，确实，感觉大家在群里确实幽默风趣，互相调侃，而到了线下，比较拘谨，各干各的，所以在这里，就想通过这么个方式去达到这个效果，并且就通过记录我的错误，或者说把大家有犯过的错误，去分享出去，大家没事就像刷几个小视频一样看这些bug，看看大伙犯的错误有没有同感，或者说笑笑自己有多么的傻x，从而避免再犯同样的错误。</li>
+</ul>
+<h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul>
 <li>不过希望大家不灌水哦，为了更好的体验，后面通过学习一些技术去把它整理，分类，希望能到那种程度，从而提高一些阅读体验。</li>
 </ul>
 <blockquote>
